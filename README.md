@@ -1,8 +1,0 @@
-- 👋 Hi, I’m AswinDev
-- 👀 I’m interested in MERN Stack development and exploring the latest technologies.
-- 🌱 I’m currently learning and honing my skills in the world of web development.
-- 💡 I'm an aspiring MERN Stack enthusiast, driven by the thrill of exploring the latest technologies.
-- 🚀 My passion for problem-solving, unwavering commitment, and an insatiable work ethic make me a standout in dynamic settings.
-- ✨ As a self-driven learner, I effortlessly embrace new tech trends and eagerly lend my skills to cutting-edge projects. 
-- 💞️ I’m looking to collaborate on exciting projects that challenge my skills and expand my horizons.
-- 📫 How to reach me: You can reach me at dewasdevelops@gmail.com.
