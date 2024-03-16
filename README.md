@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Cooking Mace](https://cooking-mace.vercel.app/)
 
-- 🌱 I’m currently learning **Microservice**
+- 🌱 I’m in **MERN Stack** Domain
 
 - 👯 I’m looking improve my [Ecommerce](https://ecom-private-ten.vercel.app/)
 
